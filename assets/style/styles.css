@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  header nav {
+    margin-bottom: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-deck .card {
+    min-width: 30%;
+  }
+  
